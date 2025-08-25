@@ -29,6 +29,7 @@ public class BaseClass {
 	{
 		dbUtil.getDBConnection();
 		System.out.println("==DB connected==");
+		System.out.println("***************************");
 	}
 	
 	@AfterSuite
