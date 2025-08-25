@@ -17,6 +17,6 @@ public class ContInfoPage {
 	public WebElement getHeaderMsg() {
 		return headerMsg;
 	}
-	
+	//this is a verification msg
 	
 }
